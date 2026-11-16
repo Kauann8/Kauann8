@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kauan 👋
 
-Estudante do 3º ano de **Ciência da Computação** na **UNESPAR** (Universidade Estadual do Paraná), focado em desenvolvimento de software e arquitetura back-end.
+Estudante do 3º ano de **Ciência da Computação** na **UNESPAR** (Universidade Estadual do Paraná), interesse em desenvolvimento de software e redes de computadores.
 
 - 💻 Construindo aplicações com **Java**, **Python**, **C** e **SQL**
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/kauan-gomes-cardoso/)
